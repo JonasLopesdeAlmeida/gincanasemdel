@@ -1,0 +1,27 @@
+fundo-branco {
+    background: #fff;
+}
+.btn-custom {
+	padding: 15px 15px 15px 15px;
+	border-radius: 50px;
+}
+
+.btn-icon {
+	padding: 5px;
+	background: #000f;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.fonte_menu {
+    font-size: 1.4rem;
+    color: #007dc4;
+}
+
+.center-v {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
